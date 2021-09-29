@@ -1,1 +1,19 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="_b9#Dz-wO*)Pu0%tc1;!" x="0" y="0"/><block type="device_forever" id=",j0EmGn1;IYh4`sK^zFp" x="205" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="2hyCGH#k/.MFd=*8XfSC">feliz</variable></variables><block type="pxt-on-start" id="y~%[+G(3r^qvhEJc+|l4" x="0" y="0"/><block type="device_forever" id="f1L8-`/K)tlL6d;?EC`b" x="205" y="0"/><block type="function_definition" id="[5/pB9C~5B7DMHKt0|K]" x="299" y="123"><mutation name="bromista" functionid="AHk@}GZ{By,,_+w?W3b#"/><field name="function_name">bromista</field><statement name="STACK"><block type="device_show_leds" id="`/~jI?tv(vd^u+;k%sT0"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        . . # . .
+        `</field></block></statement></block><block type="function_definition" id="]*kAI?kFgMwe,0||pae{" x="78" y="144"><mutation name="feliz2" functionid="E3dh?RhveHJOy(x+s#wX"/><field name="function_name">feliz2</field><statement name="STACK"><block type="device_show_leds" id="]Df+8Ws|IC?fUZ[di#z#"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . # . # . 
+        # . . . # 
+        . # # # .
+        `</field></block></statement></block><block type="function_definition" id="iHB+K/XiOtTU{KG*U=cU" x="526" y="144"><mutation name="amable" functionid="TC!Xgr-#3[aitR)Q0%::"/><field name="function_name">amable</field><statement name="STACK"><block type="device_show_leds" id=",ymF3b5bQ`lJ252U%^qZ"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field></block></statement></block><block type="controls_if" id="tqT^+r1#T6/TIZvf3|^j" disabled="true" x="66" y="514"><value name="IF0"><shadow type="logic_boolean" id="OJ~n3}jW/C0L7(Ucc`y/" disabled="true"><field name="BOOL">TRUE</field></shadow></value><statement name="DO0"><block type="device_print_message" id="9!axz5FTE=Bx3l]Q?msU" disabled="true"><value name="text"><shadow type="text" id="r~{oOYu{1^4$wqLKN)Ge" disabled="true"><field name="TEXT">¿tienes agua?</field></shadow></value><next><block type="device_print_message" id="UGAntp89KBZ@Ko5*3aiW" disabled="true"><value name="text"><shadow type="text" id="QDn,9Q:2Ta%(JuKHW1Xi" disabled="true"><field name="TEXT">no</field></shadow></value><next><block type="device_print_message" id="MF?sPDFl73++ifUkRw]-" disabled="true"><value name="text"><shadow type="text" id="e;H/k3:8j-;dt_qL[YGF" disabled="true"><field name="TEXT">poner mucha agua</field></shadow></value></block></next></block></next></block></statement></block></xml>
