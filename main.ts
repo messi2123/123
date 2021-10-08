@@ -7,17 +7,17 @@ function AMABLE2 () {
         . . # . .
         `)
     if (AMABLE <= 0) {
-        basic.showString("[_]")
+        basic.showString("[_](tiene sol)")
         basic.showString("NO")
         basic.showString(":%")
     }
     if (AMABLE <= 0) {
-        basic.showString("°0°")
+        basic.showString("°0°(tiene agua)")
         basic.showString("NO ")
         basic.showString("°_°")
     }
     if (AMABLE <= 0) {
-        basic.showString(":[")
+        basic.showString(":[(la tratas bien)")
         basic.showString("NO")
         basic.showString(":)")
         BROMISTA()
@@ -33,17 +33,17 @@ function BROMISTA () {
         . . # . .
         `)
     if (bromista <= 0) {
-        basic.showString("(!)")
+        basic.showString("(!)(HACE REIR)")
         basic.showString("NO")
         basic.showString(":P")
     }
     if (bromista <= 0) {
-        basic.showString(":D")
+        basic.showString(":D(cuenta chistes)")
         basic.showString("NO")
         basic.showString(":]")
     }
     if (bromista <= 0) {
-        basic.showString(":[")
+        basic.showString(":[(hace reir)")
         basic.showString("NO")
         basic.showString(":V")
     }
@@ -58,17 +58,17 @@ function feliz2 () {
         . # # # .
         `)
     if (feliz <= 0) {
-        basic.showString("[*+*]")
+        basic.showString("[*+*](tiene agua)")
         basic.showString("NO ")
         basic.showString("#-#")
     }
     if (feliz <= 0) {
-        basic.showString("*+*")
+        basic.showString("*+*(tiene sol)")
         basic.showString("NO")
         basic.showString("*")
     }
     if (feliz <= 0) {
-        basic.showString("(°)")
+        basic.showString("(°)(va a jugar)")
         basic.showString("NO")
         basic.showString(":O")
         AMABLE2()
